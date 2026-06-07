@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Skew, rotate, and scale elements in simulated 3D perspectives.
+  name: css-transform-3d-sandbox version: 1.0 type: Repository author: VarshuAi description: >   Skew, rotate, and scale elements in simulated 3D perspectives. primary_tech: CSS
 primary_tech: CSS
 ```
 
